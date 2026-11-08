@@ -67,17 +67,14 @@ Equal Weight finished **$288,293.05 ahead**, a cumulative return advantage of **
 
 ## Power BI dashboard
 
+[![AI Equity Valuation and Portfolio Analytics dashboard](ai-equity-dashboard.png)](ai-equity-dashboard.png)
 ### Portfolio Performance & Risk
 
 The summary table shows the final return and risk metrics, the allocation chart identifies where the portfolios differ by stock, and the growth chart shows how their values evolved during the test.
 
-![Power BI Portfolio Performance & Risk page showing the performance summary, stock allocations, and portfolio growth](portfolio-performance.png)
-
 ### Company Valuation
 
 The scenario table compares the modelled enterprise values in **USD billions**. The Oracle heatmap displays the nine WACC and terminal growth combinations in **USD millions**.
-
-![Power BI Company Valuation page showing four DCF scenarios and the nine-cell Oracle sensitivity heatmap](company-valuation.png)
 
 ## How to review the project
 
